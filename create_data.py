@@ -39,22 +39,8 @@ class ProdutoClass:
 
 
 produtos = (
-    'Apontador',
-    'Caderno 100 folhas',
-    'Caderno capa dura 200 folhas',
-    'Caneta esferográfica azul',
-    'Caneta esferográfica preta',
-    'Caneta esferográfica vermelha',
-    'Durex',
-    'Giz de cera 12 cores',
-    'Lapiseira 0.3 mm',
-    'Lapiseira 0.5 mm',
-    'Lapiseira 0.7 mm',
-    'Lápis de cor 24 cores',
-    'Lápis',
-    'Papel sulfite A4 pacote 100 folhas',
-    'Pasta elástica',
-    'Tesoura',
+    'Tricô Garrafinha',
+    'Short Alfaiataria',
 )
 
 tic = timeit.default_timer()
