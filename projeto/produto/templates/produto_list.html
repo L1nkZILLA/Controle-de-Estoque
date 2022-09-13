@@ -45,7 +45,6 @@
             <th>Produto</th>
             <th>Preço</th>
             <th class="text-center">Estoque</th>
-            <th class="text-center">Estoque mínimo</th>
           </tr>
         </thead>
         <tbody>
@@ -64,7 +63,6 @@
               </td>
               <td>R$ <span class="pull-right">{{ object.preco }}</span></td>
               <td class="text-center">{{ object.estoque }}</td>
-              <td class="text-center">{{ object.estoque_minimo }}</td>
             </tr>
           {% endfor %}
         </tbody>
