@@ -12,8 +12,8 @@ Controle de estoque
 * Rode as migrações.
 
 ```bash
-git clone https://github.com/rg3915/estoque.git
-cd estoque
+git clone https://github.com/L1nkZILLA/Controle-de-Estoque
+cd Controle-de-Estoque
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
